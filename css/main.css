@@ -1,0 +1,116 @@
+/* main.css */
+
+/* Body styles */
+body {
+   margin: 0;
+   padding: 0;
+   background-color: rgb(72, 110, 81);
+   color: white;
+}
+
+/* Container styles */
+.container {
+   text-align: center;
+   margin-top: 50px;
+}
+
+/* Name styles */
+#name {
+   font-size: 50px;
+   color: rgb(39, 17, 232);
+
+}
+
+/* Heading styles */
+h2 {
+   color: rgb(240, 240, 244);
+}
+
+/* Section heading styles */
+.section-heading {
+   text-align: center;
+   margin-top: 40px;
+   margin-left: 40px;
+}
+
+/* List styles */
+ul {
+   margin-left: 20px;
+   margin-bottom: 20px;
+   color: white;
+}
+
+/* Link styles */
+a {
+   color: cyan;
+   text-decoration: none;
+}
+
+/* Show container styles */
+.show-container {
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+
+/* Show styles */
+.show {
+   text-align: center;
+}
+
+.show h2 {
+   margin-bottom: 10px;
+}
+
+/* Image styles */
+img {
+   width: 300px;
+   height: 300px;
+}
+
+/* Image row styles */
+.image-row {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 10px;
+}
+
+/* Mood styles */
+.mood {
+   text-align: center;
+   margin: 0 20px;
+   margin-left: 200px;
+   margin-right: 150px;
+}
+
+.mood h2 {
+   margin-bottom: 10px;
+}
+
+/* Class-specific styles */
+.Thomas {
+   width: 100px;
+   height: 100px;
+}
+
+/* Additional styles */
+.container_title{
+   font-size: 40px;
+}
+
+p{
+   font-size: 24px;
+}
+
+.div_item{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+
+
+}
+
+.item_item{
+   font-size: 24px;
+}
