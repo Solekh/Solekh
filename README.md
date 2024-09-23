@@ -13,7 +13,7 @@
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://slkh_23.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/solekh)  [![Gmail](https://img.shields.io/badge/solekhabdulloev@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:rvkamronbek@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/krv006)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://slkh_23.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/solekh)  [![Gmail](https://img.shields.io/badge/solekhabdulloev@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:rvkamronbek@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/solekh)
 
 
 
