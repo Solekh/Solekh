@@ -7,7 +7,7 @@
 
 - 🔭 Self Employed
 - 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot**
-- 📫 How to reach me [**rvkamronbek@gmail.com**](mailto:rvkamronbek@gmail.com)
+- 📫 How to reach me [**solekhabdulloev@gmail.com**](solekhabdulloev@gmail.com)
 
 
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
